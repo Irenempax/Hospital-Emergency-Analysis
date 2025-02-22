@@ -1,0 +1,1 @@
+This Emergency Room Dashboard provides a comprehensive analysis of patient flow, hospital efficiency, and key emergency care metrics. Designed using Excel, the dashboard offers actionable insights to improve emergency response times, resource allocation, and patient care.
